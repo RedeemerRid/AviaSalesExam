@@ -13,6 +13,9 @@ int main() {
 	f.InToFlight();
 	f.OutToFile();
 	f.print();
+	f.editFlight();
+	f.print();
+
 
 
 	return 0;
