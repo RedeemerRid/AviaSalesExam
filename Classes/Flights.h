@@ -107,7 +107,7 @@ public:
 			ft << (it->second).costTicket << endl;
 			ft << (it->second).countSeats << endl;
 		}
-		ft.close();
+		ft.close(); 
 	}
 
 	void InToFlight() {
